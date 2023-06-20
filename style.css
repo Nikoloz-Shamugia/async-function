@@ -1,0 +1,15 @@
+.div{
+    display: grid;
+    place-items: center;
+    background-color: aqua;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 600px;
+    margin-bottom: 40px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
